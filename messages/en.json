@@ -1,0 +1,92 @@
+{
+  "Index": {
+    "title": "Hello world"
+  },
+
+  "Navbar":{
+    "Homepage" : "Home page",
+    "AboutUs" : "About Us",
+    "OurAchievements" : "Our Achievements",
+    "Product" : "Product",
+    "Career" : "Career",
+    "Blogs" : "Blogs",
+    "Contactus" : "Contact us"
+  },
+
+  "Thumbnail":{
+    "section1": "Everything is possible",
+    "section2": "Start the",
+    "section3": "Journey",
+    "section4": "Exceed",
+    "section5": "The limit"
+  },
+
+  "ContentHomeOne":{
+    "section1": "Eureka, for Education in Indonesia",
+    "section2": "In a country rich in potential and talent, there is a spirit that aims to light the way to a bright future for education in Indonesia. ",
+    "section3": "Read More",
+    "section4" : "Eureka believes that the spirit that arises is a call from the heart to provide the best for education in this country. We believe that every child has extraordinary potential and deserves a quality education to make their dreams come true."
+  },
+
+  "contentHomeTwo":{
+    "section1" : "Share Services",
+    "section2" : "For All People",
+    "section3" : "Education",
+    "section4" : "study together for all exam preparations",
+    "section5" : "Visit to products",
+    "section6" : "Prepare yourself for the professional world with the experts",
+    "section7" : "Events and Entertainment",
+    "section8" : "Play and learn, all in one event.",
+    "section9" : "Business",
+    "section10" : "Business matchmaking between institutions or companies"
+
+  },
+
+  "contentHomeThree":{
+    "section1" : "Eureka in Numbers",
+    "section2" : "We cover the entire country",
+    "section3" : "The data above is taken in real time and will be updated regularly"
+  },
+  
+
+  "tentang-kami":{
+    "sec1" : "About Eureka",
+    "sec2" : "Our Team",
+    "sec3" : "Organizational structure",
+    "sec4" : "Product Business Line",
+    "sec5" : "About Eureka",
+    "sec6" : "Eureka is an educational technology ecosystem in Indonesia. The main mission of Eureka Campus is to continue to synergize and support the transformation of education in various concentrations that continue to change and keep up with the times. Starting from one small goal, it eventually developed to achieve something bigger for the development of modern Indonesian education.",
+    "sec7" : "View Products",
+    "sec8" : "Our Team",
+    "sec9" : "Organizational structure",
+    "sec10" : "Product Business Line"
+  },
+   "pencapaian-kami":{
+      "sec1" : "Eureka Destination",
+      "sec2" : "Eureka is faced with various challenges that must be faced in carrying out its mission to improve the quality of education in this country. Therefore, Eureka will always ensure that their solutions are accessible to various groups. By addressing these challenges, Eureka will be able to make a significant contribution to improving the quality of education in the country.",
+      "sec3" : "Our commitment",
+      "sec4" : "Our goal",
+      "sec5" : "Our commitment",
+      "sec6" : "Milestone"
+   },
+   "produk":{
+    "sec1" : "Various services for one goal in the world of education",
+    "sec2" : ""
+   },
+   "career":{
+    "sec1" : "Find Your Adventure With Us!"
+   },
+   "blog": {
+    "sec1" : "Stories in Eureka",
+    "sec2" : "Find interesting things about developments in the world of education. Read all articles about Eureka here."
+   },
+   "hubungi-kami":{
+    "sec1" : "Take steps to grow with us",
+    "sec2" : "Or contact us through",
+    "sec3" : "Telephone",
+    "sec4" : "Address",
+    "sec5" : "I'am willing to disclose my personal identification information to PT Edukasi Rekanan Anda to identify the message I convey and the media to follow up on my message",
+    "sec6" : "Contact us via the following email message.",
+    "sec7" : "Send"
+   }
+}

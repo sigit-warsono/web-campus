@@ -1,0 +1,87 @@
+{
+  "Index": {
+    "title": "Hello dunia"
+  },
+   "Navbar":{
+    "Homepage" : "Beranda",
+    "AboutUs" : "Tentang Kami",
+    "OurAchievements" : "Pencapaian Kami",
+    "Product" : "Produk",
+    "Career" : "Karir",
+    "Blogs" : "Blog",
+    "Contactus" : "Hubungi Kami"
+  },
+    "Thumbnail":{
+    "section1": "Semua Bisa",
+    "section2": "Mulai",
+    "section3": "Perjalanan",
+    "section4": "Lampaui",
+    "section5": "batas"
+  },
+   "ContentHomeOne":{
+    "section1": "Eureka, untuk Edukasi di Indonesia",
+    "section2": "Di sebuah negeri yang kaya akan potensi dan bakat, terdapat sebuah semangat yang bertujuan untuk menerangi jalan menuju masa depan yang cerah bagi pendidikan di Indonesia.",
+    "section3": "Selengkapnya",
+    "section4" : "Eureka percaya, semangat yang timbul merupakan panggilan hati untuk memberikan yang terbaik bagi pendidikan di negeri ini. Kami percaya bahwa setiap anak memiliki potensi yang luar biasa dan layak mendapatkan pendidikan berkualitas untuk mewujudkan impian mereka."
+  },
+   "contentHomeTwo":{
+    "section1" : "Berbagi Layanan",
+    "section2" : "Untuk Semua Kalangan",
+    "section3" : "Edukasi",
+    "section4" : "belajar bersama untuk semua persiapan ujian",
+    "section5" : "Kunjungi produk",
+    "section6" : "Persiapkan diri ke dunia profesional bersama ahlinya.",
+    "section7" : "Acara dan Hiburan",
+    "section8" : "Bermain dan belajar, semua dalam satu acara.",
+   "section9" : "Bisnis",
+    "section10" : "Bisnis macthmaking antar lembaga atau perusahaan"
+  },
+   "contentHomeThree":{
+    "section1" : "Eureka dalam Angka",
+    "section2" : "Kami menjangkau seluruh negeri",
+    "section3" : "Data diatas diambil secara real time dan akan diperbarui secara berkala"
+  },
+  "pencapaian-kami":{
+    "sec1" : "Tujuan Eureka",
+    "sec2" : "Eureka dihadapkan pada berbagai tantangan yang harus dihadapinya dalam menjalankan misi untuk meningkatkan kualitas pendidikan di negara ini. Maka dari itu, Eureka akan selalu memastikan solusi mereka dapat diakses oleh berbagai kalangan. Dengan mengatasi tantangan ini, Eureka akan mampu memberikan kontribusi yang signifikan dalam meningkatkan kualitas pendidikan di negara ini.",
+    "sec3" : "Komitmen kami",
+    "sec4" : "Tujuan kami",
+    "sec5" : "Komitmen kami",
+    "sec6" : "Milestone"
+  },
+
+    "tentang-kami":{
+    "sec1" : "Tentang Eureka",
+    "sec2" : "Team Kami",
+    "sec3" : "Struktur Organisasi",
+    "sec4" : "Lini Bisnis Produk",
+    "sec5" : "Tentang Eureka",
+    "sec6" : "Eureka adalah sebuah ekosistem teknologi pendidikan yang ada di Indonesia. Misi utama dari Eureka Campus adalah dapat terus “bersinergi” dan mendukung transformasi pendidikan dalam berbagai konsentrasi yang terus berubah dan mengikuti perkembangan zaman. Berawal dari satu tujuan kecil, hingga pada akhirnya berkembang untuk mencapai sesuatu yang lebih besar lainnya untuk perkembangan pendidikan Indonesia modern.",
+    "sec7" : "Lihat Produk",
+    "sec8" : "Team Kami",
+    "sec9" : "Struktur Organisasi",
+    "sec10" : "Lini Bisnis Produk"
+    },
+
+
+    "produk":{
+    "sec1" : "Berbagai layanan untuk satu tujuan dunia pendidikan",
+    "sec2" : ""
+   },
+   "career":{
+    "sec1" : "Temukan Petualanganmu Bersama Kami!"
+   },
+   "blog": {
+    "sec1" : "Berbagai Cerita di Eureka",
+    "sec2" : "Temukan hal menarik seputar perkembangan dunia edukasi. Baca semua artikel tentang Eureka disini."
+   },
+   "hubungi-kami":{
+    "sec1" : "Ambil langkah untuk berkembang bersama kami",
+    "sec2" : "Atau hubungi kami melalui",
+    "sec3" : "elepon",
+    "sec4" : "Alamat",
+    "sec5" : "Saya bersedia untuk mengungkapkan informasi identifikasi pribadi saya kepada PT Edukasi Rekanan Anda untuk mengindetifikasi pesan yang saya sampaikan dan media untuk menindaklanjuti pesan saya.",
+     "sec6" : "Contact us via the following email message.",
+    "sec7" : "Send"
+   }
+}
